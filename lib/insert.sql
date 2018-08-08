@@ -1,0 +1,55 @@
+insert into projects(title, category, funding_goal, start_date, end_date) values ("home", );
+
+
+insert into users(name, age) values("sara", 11);
+insert into users(name, age) values("maliha", 17);
+insert into users(name, age) values("mohammed", 12);
+insert into users(name, age) values("ammar", 14);
+insert into users(name, age) values("rayyan", 11);
+insert into users(name, age) values("dina", 8);
+insert into users(name, age) values("amirah", 2);
+insert into users(name, age) values("alina", 4);
+insert into users(name, age) values("minha", 5);
+insert into users(name, age) values("miesha", 3);
+insert into users(name, age) values("yusuf", 6);
+insert into users(name, age) values("iliya", 3);
+insert into users(name, age) values("sanaya", 3);
+insert into users(name, age) values("abdullah", 13);
+insert into users(name, age) values("maryam", 3);
+insert into users(name, age) values("ali", 1);
+insert into users(name, age) values("ibrahim", 16);
+insert into users(name, age) values("asiya", 19);
+insert into users(name, age) values("ayesha", 15);
+insert into users(name, age) values("zahra", 9);
+
+
+insert into pledges(amount, user_id, project_id) values (3000, 1, 1);
+insert into pledges(amount, user_id, project_id) values (500, 1, 2);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 3);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 2);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 4);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 5);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 6);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 6);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 7);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 7);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 8);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 8);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 9);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 9);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 10);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 11);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 12);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 13);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 15);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 16);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 14);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 17);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 8);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 19);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 18);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 20);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 20);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 15);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 16);
+insert into pledges(amount, user_id, project_id) values (3000, 1, 9);
